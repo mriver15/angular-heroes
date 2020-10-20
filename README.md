@@ -1,2 +1,1 @@
-# angular-tour-of-heroes
- Angular Tour
+# angular-heroes
